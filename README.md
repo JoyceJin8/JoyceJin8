@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @JoyceJin8
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning how to program
-- 💞️ I’m looking to collaborate on programming
-- 📫 How to reach me, programming
+Welcome to my page!
+I’m @JoyceJin8, feel free to check out some of the personal projects I'm enthusiastic about!
 
 <!---
 JoyceJin8/JoyceJin8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
